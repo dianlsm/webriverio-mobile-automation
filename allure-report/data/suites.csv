@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7923","should navigate to Login page from menu","SauceLabs MyDemoApp - Purchase Flow","Mon Jan 19 09:19:50 WIB 2026","passed","Mon Jan 19 09:19:58 WIB 2026","","","",""
+"","26343","Complete the checkout process","SauceLabs MyDemoApp - Purchase Flow","Mon Jan 19 09:20:03 WIB 2026","passed","Mon Jan 19 09:20:29 WIB 2026","","","",""
+"","4488","Add product to cart","SauceLabs MyDemoApp - Purchase Flow","Mon Jan 19 09:19:58 WIB 2026","passed","Mon Jan 19 09:20:03 WIB 2026","","","",""
